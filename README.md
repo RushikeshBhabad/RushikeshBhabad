@@ -58,7 +58,7 @@
 💬 Always open to discussions on **AI, NLP, Backend & SQL!**  
 
 <p align="center">
-  <a href="[https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/rushikesh-bhabad-21411328b/)" target="_blank">
+  <a href="[https://www.linkedin.com/in/rushikesh-bhabad-21411328b/]" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/Rushikesh-Bhabad" target="_blank">
