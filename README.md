@@ -5,7 +5,7 @@
 <h2 align="center"> 👋 Hello, I'm <span style="color:#00e6e6;">Rushikesh Bhabad</span> 🚀 </h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00FFFF&width=700&lines=AIML+Enthusiast+%7C+Data+Scientist+Enthusiast;Backend+Developer+%7C;Building+Smart+AI+Solutions...🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00FFFF&width=700&lines=AIML+Enthusiast+%7C+Data+Scientist+Enthusiast;Backend+Developer+%7C+NLP+%7C+DL;Building+Smart+AI+Solutions...🚀" />
 </p>
 
 ---
@@ -14,7 +14,7 @@
 
 🎓 **2nd Year Computer Engineering Student @ PICT**  
 🔬 **AIML | Data Scientist Enthusiast | Backend Developer ⚡**  
-📊 **NLP & Deep Learning**     
+📊 **NLP & Deep Learning Enthusiast**     
 🏆 **LeetCode & CodeChef Star 🌟**  
 🚀 **Dreaming Big, Building Bigger!**  
 
@@ -46,9 +46,9 @@
 
 ## 🏗️ **Projects & Creations**  
 
-💰 **[Wallet Whisperer](https://github.com/your-repo)** - **AI-powered financial assistant** for smarter money management!  
-🏠 **[Rent Easy](https://github.com/your-repo)** - **MERN-based rental platform** for books, furniture & more!  
-🎟️ **[Museum Ticket Chatbot](https://github.com/your-repo)** - NLP chatbot for seamless museum ticket booking!  
+💰 **[Wallet Whisperer](https://github.com/RushikeshBhabad/Wallet-Whisperer)** - **AI-powered financial assistant** for smarter money management!  
+🏠 **[Rent Easy](https://github.com/RushikeshBhabad/Rent-Easy)** - **MERN-based rental platform** for books, furniture & more!  
+🎟️ **[Museum Ticket Chatbot](https://github.com/RushikeshBhabad/Museum-Ticket-Chatbot)** - NLP chatbot for seamless museum ticket booking!  
 🚀 **More AI-powered projects coming soon... Stay tuned!**  
 
 ---
@@ -58,10 +58,10 @@
 💬 Always open to discussions on **AI, NLP, Backend & SQL!**  
 
 <p align="center">
-  <a href="[https://www.linkedin.com/in/rushikesh-bhabad-21411328b/]" target="_blank">
+  <a href="https://www.linkedin.com/in/rushikesh-bhabad-21411328b/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://github.com/Rushikesh-Bhabad" target="_blank">
+  <a href="https://github.com/RushikeshBhabad" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
