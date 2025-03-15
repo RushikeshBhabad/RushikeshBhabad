@@ -42,12 +42,6 @@
 
 ---
 
-## 📊 **GitHub Analytics**  
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rushikesh-Bhabad&show_icons=true&theme=react&hide_border=true)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rushikesh-Bhabad&layout=compact&theme=react&hide_border=true)  
-
----
 
 ## 🎯 **Let's Connect & Collaborate!**  
 
