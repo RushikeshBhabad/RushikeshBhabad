@@ -5,7 +5,7 @@
 <h2 align="center"> 👋 Hello, I'm <span style="color:#00e6e6;">Rushikesh Bhabad</span> 🚀 </h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00FFFF&width=700&lines=AIML+Enthusiast+%7C+Data+Scientist+Enthusiast;Backend+Developer+%7C+LeetCode+%2B+CodeChef+Star;Building+Smart+AI+Solutions...🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00FFFF&width=700&lines=AIML+Enthusiast+%7C+Data+Scientist+Enthusiast;Backend+Developer+%7C;Building+Smart+AI+Solutions...🚀" />
 </p>
 
 ---
@@ -50,22 +50,6 @@
 🏠 **[Rent Easy](https://github.com/your-repo)** - **MERN-based rental platform** for books, furniture & more!  
 🎟️ **[Museum Ticket Chatbot](https://github.com/your-repo)** - NLP chatbot for seamless museum ticket booking!  
 🚀 **More AI-powered projects coming soon... Stay tuned!**  
-
----
-
-## 📊 **GitHub Analytics with Neon Glow ✨**  
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rushikesh-Bhabad&theme=neon-palenight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rushikesh-Bhabad&show_icons=true&theme=react&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rushikesh-Bhabad&layout=compact&theme=react&hide_border=true" />
-</p>
 
 ---
 
