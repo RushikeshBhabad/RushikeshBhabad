@@ -46,7 +46,7 @@
 
 ## 🏗️ **Projects & Creations**  
 
-💰 **[Wallet Whisperer](https://github.com/RushikeshBhabad/Wallet-Whisperer)** - **AI-powered financial assistant** for smarter money management!  
+💰 **[Wallet Whisperer](https://github.com/RushikeshBhabad/Wallet-Whisperer)** - **Financial assistant** for smarter money management!  
 🏠 **[Rent Easy](https://github.com/RushikeshBhabad/Rent-Easy)** - **MERN-based rental platform** for books, furniture & more!  
 🎟️ **[Museum Ticket Chatbot](https://github.com/RushikeshBhabad/Museum-Ticket-Chatbot)** - NLP chatbot for seamless museum ticket booking!  
 🚀 **More AI-powered projects coming soon... Stay tuned!**  
