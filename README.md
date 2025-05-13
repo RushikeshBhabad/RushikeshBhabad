@@ -3,7 +3,6 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=200&section=header&text=Rushikesh%20Bhabad&fontSize=40&fontColor=fff&animation=fadeIn)
 
 <h2 align="center"> 👋 Hello, I'm <span style="color:#00e6e6;">Rushikesh Bhabad</span> 🚀 </h2>
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00FFFF&width=700&lines=AIML+Enthusiast+%7C+Data+Scientist+Enthusiast;Backend+Developer+%7C+NLP+%7C+DL;Building+Smart+AI+Solutions...🚀" />
 </p>
