@@ -337,12 +337,6 @@ const rushikesh = {
 
 <br>
 
-### 🎯 Problem Solving Distribution
-
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=rushikeshbhabad&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=ffffff&icon_color=00ff41&layout=compact&custom_title=Coding%20Activity" width="500" alt="Coding Activity"/>
-
-<br>
-
   <a href="https://leetcode.com/rushikeshbhabad">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
   </a>
