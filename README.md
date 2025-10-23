@@ -34,17 +34,17 @@ const rushikesh = {
     askMeAbout: ["Web Dev", "AI/ML", "GenAI", "DSA"],
     technologies: {
         frontEnd: {
-            js: ["React", "Node.js"],
-            css: ["Tailwind", "Bootstrap"]
+            frameworks: ["React", "Streamlit"],
+            styling: ["Tailwind", "Bootstrap"]
         },
         backEnd: {
-            python: ["Flask", "FastAPI", "Streamlit"],
-            js: ["Express", "Socket.io"]
+            nodeJS: ["Express", "Socket.io"],
+            python: ["Flask", "FastAPI"]
         },
         databases: ["MongoDB", "PostgreSQL", "MySQL"],
         AI_ML: ["TensorFlow", "LangChain", "RAG", "LLMs"],
         devOps: ["Docker", "GitHub Actions"],
-        misc: ["Cloudinary", "Hugging Face"]
+        cloud: ["Cloudinary", "Hugging Face"]
     },
     currentFocus: "Building AI-powered full-stack applications",
     education: "B.E. Computer Engineering @ PICT",
