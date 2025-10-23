@@ -293,50 +293,56 @@ const rushikesh = {
 
 </div>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100%">
-</div>
-
 ---
 
-## 📊 GITHUB STATISTICS
+## 🏆 COMPETITIVE PROGRAMMING DOMINANCE
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=rushikeshbhabad&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=ffffff&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=rushikeshbhabad&theme=chartreuse-dark&hide_border=true&background=0d1117&stroke=00ff41&ring=00ff41&fire=ff6d00&currStreakLabel=00ff41" alt="GitHub Streak" />
-</div>
 
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rushikeshbhabad&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=ffffff&langs_count=8" alt="Top Languages" />
-  <img width="49%" src="https://github-contributor-stats.vercel.app/api?username=rushikeshbhabad&limit=5&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=ffffff" alt="Contribution Stats" />
-</div>
+<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="500">
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rushikeshbhabad&custom_title=Contribution%20Graph&bg_color=0d1117&color=00ff41&line=00ff41&point=ffffff&area=true&hide_border=true" alt="Contribution Graph" width="98%" />
-</div>
+### 💎 Elite Problem Solver | 500+ Challenges Conquered
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47e185f-9b26-4450-924f-c8431d9416b4.gif" width="900">
-</div>
-
----
-
-## 🏆 LEETCODE & COMPETITIVE PROGRAMMING
-
-<div align="center">
-  
-### 💪 500+ Problems Solved Across Multiple Platforms
-
-<img src="https://img.shields.io/badge/LeetCode-500+-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
-<img src="https://img.shields.io/badge/Total_Problems-500+-00ff41?style=for-the-badge&logo=codechef&logoColor=white" alt="Total Problems"/>
-<img src="https://img.shields.io/badge/DSA-Expert-ff6d00?style=for-the-badge&logo=databricks&logoColor=white" alt="DSA Expert"/>
-
+<table>
+<tr>
+<td align="center" width="33%">
+<img src="https://img.shields.io/badge/LeetCode-500+-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=000000" height="40"/>
 <br><br>
-
-<img src="https://leetcard.jacoblin.cool/rushikeshbhabad?theme=dark&font=Ubuntu%20Mono&ext=heatmap&border=0" alt="LeetCode Stats" width="70%"/>
-
+<img src="https://img.shields.io/badge/Problems-500+-00ff41?style=flat-square&labelColor=0d1117" />
+<br>
+<img src="https://img.shields.io/badge/Rank-Top_10%25-gold?style=flat-square&labelColor=0d1117" />
+</td>
+<td align="center" width="33%">
+<img src="https://img.shields.io/badge/Codeforces-Active-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white&labelColor=000000" height="40"/>
 <br><br>
-  
+<img src="https://img.shields.io/badge/Rating-Specialist-cyan?style=flat-square&labelColor=0d1117" />
+<br>
+<img src="https://img.shields.io/badge/Contests-50+-00ff41?style=flat-square&labelColor=0d1117" />
+</td>
+<td align="center" width="33%">
+<img src="https://img.shields.io/badge/CodeChef-Expert-5B4638?style=for-the-badge&logo=codechef&logoColor=white&labelColor=000000" height="40"/>
+<br><br>
+<img src="https://img.shields.io/badge/Stars-4★-gold?style=flat-square&labelColor=0d1117" />
+<br>
+<img src="https://img.shields.io/badge/Solved-150+-00ff41?style=flat-square&labelColor=0d1117" />
+</td>
+</tr>
+</table>
+
+<br>
+
+### 📊 LeetCode Journey
+
+<img src="https://leetcard.jacoblin.cool/rushikeshbhabad?theme=dark&font=Ubuntu%20Mono&ext=contest&border=0" alt="LeetCode Stats" width="500"/>
+
+<br>
+
+### 🎯 Problem Solving Distribution
+
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=rushikeshbhabad&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=ffffff&icon_color=00ff41&layout=compact&custom_title=Coding%20Activity" width="500" alt="Coding Activity"/>
+
+<br>
+
   <a href="https://leetcode.com/rushikeshbhabad">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
   </a>
@@ -346,6 +352,9 @@ const rushikesh = {
   <a href="#">
     <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef"/>
   </a>
+
+<img src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" width="400">
+
 </div>
 
 <div align="center">
@@ -388,11 +397,13 @@ const rushikesh = {
 
 ---
 
-## 💭 DAILY DEV QUOTE
-
 <div align="center">
-  
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=chartreuse-dark&border=true)
+
+## 💭 PHILOSOPHY
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=800&lines=First+solve+the+problem.+Then+write+the+code.;Make+it+work%2C+make+it+right%2C+make+it+fast.;Code+is+like+humor.+When+you+explain+it%2C+it's+bad.;Simplicity+is+the+soul+of+efficiency.;Talk+is+cheap.+Show+me+the+code." alt="Philosophy" />
+
+<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100">
 
 </div>
 
