@@ -309,8 +309,6 @@ const rushikesh = {
 <img src="https://img.shields.io/badge/LeetCode-500+-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=000000" height="40"/>
 <br><br>
 <img src="https://img.shields.io/badge/Problems_Solved-500+-00ff41?style=flat-square&labelColor=0d1117" />
-<br>
-<img src="https://img.shields.io/badge/DSA-Expert-gold?style=flat-square&labelColor=0d1117" />
 </td>
 </tr>
 </table>
