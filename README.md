@@ -160,7 +160,7 @@ const rushikesh = {
 <td width="50%" valign="top">
 
 ### 🏠 RentEasy
-<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100%">
+<img src="https://private-user-images.githubusercontent.com/74038190/248884004-af212da4-8588-4d7c-8400-16e56f2746a0.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjEyNDI4MDQsIm5iZiI6MTc2MTI0MjUwNCwicGF0aCI6Ii83NDAzODE5MC8yNDg4ODQwMDQtYWYyMTJkYTQtODU4OC00ZDdjLTg0MDAtMTZlNTZmMjc0NmEwLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTEwMjMlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUxMDIzVDE4MDE0NFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWYxNDI4MjVhMmYzZmMxNGZhNTUyMDU0MjY4ODliNmQwZmQwMGEzYTQxOWY3NGFmOWQ2ZWVhNGE5YTQzNTA5ZGQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0._NT4Zp1mhifptQjMoqK1ZYbBDA_QITTGGVAwDivBuwg" width="100%">
 
 **Full-Stack Rental Marketplace Platform**
 
@@ -238,6 +238,35 @@ const rushikesh = {
 </td>
 <td width="50%" valign="top">
 
+### 💰 Wallet Whisperer
+<img src="https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif" width="100%">
+
+**Smart Expense Management System**
+
+💸 Full-featured personal finance tracker for managing daily expenses, income, and financial goals.
+
+**Tech Stack:**
+- React, Node.js, Express
+- MongoDB
+- Chart.js for visualization
+- RESTful APIs
+
+**Features:**
+- 💵 Income/Expense tracking
+- 📝 Notes & categories
+- 📊 Analytics dashboard
+- 📈 Stock section integration
+- 🎥 YouTube finance videos
+- 📅 Transaction history
+
+[🔗 View Repository](https://github.com/rushikeshbhabad)
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
 ### 🌟 More Coming Soon!
 <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100%">
 
@@ -254,6 +283,9 @@ const rushikesh = {
 **Stay tuned for more!**
 
 [🔗 Explore GitHub](https://github.com/rushikeshbhabad)
+
+</td>
+<td width="50%" valign="top">
 
 </td>
 </tr>
@@ -292,13 +324,18 @@ const rushikesh = {
 ## 🏆 LEETCODE & COMPETITIVE PROGRAMMING
 
 <div align="center">
-  <img src="https://leetcard.jacoblin.cool/rushikeshbhabad?theme=dark&font=Ubuntu%20Mono&ext=heatmap&border=0" alt="LeetCode Stats" width="70%"/>
-</div>
+  
+### 💪 500+ Problems Solved Across Multiple Platforms
 
-<div align="center">
-  <br>
-  <img src="https://img.shields.io/badge/500+-Problems%20Solved-00ff41?style=for-the-badge&labelColor=0d1117&logo=leetcode" alt="Problems Solved"/>
-  <br><br>
+<img src="https://img.shields.io/badge/LeetCode-500+-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+<img src="https://img.shields.io/badge/Total_Problems-500+-00ff41?style=for-the-badge&logo=codechef&logoColor=white" alt="Total Problems"/>
+<img src="https://img.shields.io/badge/DSA-Expert-ff6d00?style=for-the-badge&logo=databricks&logoColor=white" alt="DSA Expert"/>
+
+<br><br>
+
+<img src="https://leetcard.jacoblin.cool/rushikeshbhabad?theme=dark&font=Ubuntu%20Mono&ext=heatmap&border=0" alt="LeetCode Stats" width="70%"/>
+
+<br><br>
   
   <a href="https://leetcode.com/rushikeshbhabad">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
@@ -309,53 +346,6 @@ const rushikesh = {
   <a href="#">
     <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef"/>
   </a>
-</div>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100%">
-</div>
-
----
-
-## 🏅 ACHIEVEMENTS & LEADERSHIP
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center" width="33%">
-<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="100" />
-<br><br>
-<b>Technical Head</b><br>
-PICT NSS<br>
-<sub>Managing website & app for volunteers</sub>
-</td>
-<td align="center" width="33%">
-<img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="100" />
-<br><br>
-<b>ML Coordinator</b><br>
-PASC ML SIG<br>
-<sub>Mentoring 100+ students</sub>
-</td>
-<td align="center" width="33%">
-<img src="https://user-images.githubusercontent.com/74038190/216121919-60befe4d-11c6-4227-8992-35221d12ff54.png" width="100" />
-<br><br>
-<b>Event Volunteer</b><br>
-INC Pradnya<br>
-<sub>300+ participants managed</sub>
-</td>
-</tr>
-</table>
-
-### 📜 Certifications
-
-<img src="https://img.shields.io/badge/Machine%20Learning%20Specialization-Stanford-red?style=for-the-badge&logo=stanford&logoColor=white" alt="Stanford ML"/>
-<img src="https://img.shields.io/badge/Node.js%20%26%20Express-Scaler-blue?style=for-the-badge&logo=node.js&logoColor=white" alt="Scaler Node"/>
-
-### 🌟 Community Impact
-
-**💉 Blood Donation** • **🌳 Tree Plantation** • **📚 Teaching** • **🎉 Event Management**
-
 </div>
 
 <div align="center">
