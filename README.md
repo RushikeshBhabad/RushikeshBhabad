@@ -305,26 +305,12 @@ const rushikesh = {
 
 <table>
 <tr>
-<td align="center" width="33%">
+<td align="center" width="100%">
 <img src="https://img.shields.io/badge/LeetCode-500+-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=000000" height="40"/>
 <br><br>
-<img src="https://img.shields.io/badge/Problems-500+-00ff41?style=flat-square&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/Problems_Solved-500+-00ff41?style=flat-square&labelColor=0d1117" />
 <br>
-<img src="https://img.shields.io/badge/Rank-Top_10%25-gold?style=flat-square&labelColor=0d1117" />
-</td>
-<td align="center" width="33%">
-<img src="https://img.shields.io/badge/Codeforces-Active-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white&labelColor=000000" height="40"/>
-<br><br>
-<img src="https://img.shields.io/badge/Rating-Specialist-cyan?style=flat-square&labelColor=0d1117" />
-<br>
-<img src="https://img.shields.io/badge/Contests-50+-00ff41?style=flat-square&labelColor=0d1117" />
-</td>
-<td align="center" width="33%">
-<img src="https://img.shields.io/badge/CodeChef-Expert-5B4638?style=for-the-badge&logo=codechef&logoColor=white&labelColor=000000" height="40"/>
-<br><br>
-<img src="https://img.shields.io/badge/Stars-4★-gold?style=flat-square&labelColor=0d1117" />
-<br>
-<img src="https://img.shields.io/badge/Solved-150+-00ff41?style=flat-square&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/DSA-Expert-gold?style=flat-square&labelColor=0d1117" />
 </td>
 </tr>
 </table>
